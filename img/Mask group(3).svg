@@ -1,0 +1,24 @@
+<svg width="644" height="1069" viewBox="0 0 644 1069" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_742_2" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="644" height="1069">
+<rect x="644" width="1069" height="644" rx="29" transform="rotate(90 644 0)" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_742_2)">
+<path d="M644.483 0H0V1376H644.483V0Z" fill="url(#paint0_radial_742_2)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_742_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(633.686 1312.2) rotate(-90) scale(1507 1058.73)">
+<stop offset="0.01866" stop-color="#1DBFFF"/>
+<stop offset="0.03315" stop-color="#1FB8FB"/>
+<stop offset="0.15695" stop-color="#2D81DC"/>
+<stop offset="0.2774" stop-color="#3853C2"/>
+<stop offset="0.39174" stop-color="#412FAE"/>
+<stop offset="0.49845" stop-color="#4815A0"/>
+<stop offset="0.59458" stop-color="#4C0597"/>
+<stop offset="0.67102" stop-color="#4D0094"/>
+<stop offset="0.74628" stop-color="#3C0075"/>
+<stop offset="0.85796" stop-color="#26004C"/>
+<stop offset="0.94642" stop-color="#180033"/>
+<stop offset="1" stop-color="#13002A"/>
+</radialGradient>
+</defs>
+</svg>
